@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>https://gc.fuguangwater.com:8443/app/fgerp_apple/FGERP.ipa</string>
+                                        <string>http://gc.fuguangwater.com:9618/app/fgerpApple/FGERP.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
